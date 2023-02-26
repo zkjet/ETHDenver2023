@@ -3,6 +3,11 @@
   "displayName": "ETHDenver2023",
   "description": "Unofficial ETHDenver2023 VSCode Theme Utilizing the colors of ETHDenver2023.",
   "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/zkjet/ETHDenver2023"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
