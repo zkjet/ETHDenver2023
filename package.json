@@ -1,0 +1,21 @@
+{
+  "name": "ethdenver2023",
+  "displayName": "ETHDenver2023",
+  "description": "Unofficial ETHDenver2023 VSCode Theme Utilizing the colors of ETHDenver2023.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ETHDenver2023",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ETHDenver2023-color-theme.json"
+      }
+    ]
+  }
+}
